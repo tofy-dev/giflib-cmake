@@ -1,1 +1,0 @@
-/usr/bin/cc -rdynamic CMakeFiles/gifhisto.dir/gifhisto.c.o -o gifhisto  -Wl,-rpath,/home/sad/Downloads/giflib-cmake: libgiflib.so.7.1.0 -lm 

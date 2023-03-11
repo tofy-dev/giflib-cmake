@@ -1,1 +1,0 @@
-/usr/bin/cc -rdynamic CMakeFiles/gifsponge.dir/gifsponge.c.o -o gifsponge  -Wl,-rpath,/home/sad/Downloads/giflib-cmake: libgiflib.so.7.1.0 -lm 

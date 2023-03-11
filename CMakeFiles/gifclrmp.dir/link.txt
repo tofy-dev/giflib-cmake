@@ -1,1 +1,0 @@
-/usr/bin/cc -rdynamic CMakeFiles/gifclrmp.dir/gifclrmp.c.o -o gifclrmp  -Wl,-rpath,/home/sad/Downloads/giflib-cmake: libgiflib.so.7.1.0 -lm 

@@ -1,1 +1,0 @@
-/usr/bin/cc -rdynamic CMakeFiles/gifbuild.dir/gifbuild.c.o -o gifbuild  -Wl,-rpath,/home/sad/Downloads/giflib-cmake: libgiflib.so.7.1.0 -lm 

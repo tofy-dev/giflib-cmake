@@ -1,1 +1,0 @@
-/usr/bin/cc -rdynamic CMakeFiles/giftool.dir/giftool.c.o -o giftool  -Wl,-rpath,/home/sad/Downloads/giflib-cmake: libgiflib.so.7.1.0 -lm 

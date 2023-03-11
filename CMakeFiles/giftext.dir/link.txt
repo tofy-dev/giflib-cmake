@@ -1,1 +1,0 @@
-/usr/bin/cc -rdynamic CMakeFiles/giftext.dir/giftext.c.o -o giftext  -Wl,-rpath,/home/sad/Downloads/giflib-cmake: libgiflib.so.7.1.0 -lm 
