@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sad/Downloads/giflib-cmake/getarg.h
+gif_lib.h
+/home/sad/Downloads/giflib-cmake/gif_lib.h
+stdbool.h
+-
+
+/home/sad/Downloads/giflib-cmake/gif_lib.h
+stddef.h
+-
+stdbool.h
+-
+
+/home/sad/Downloads/giflib-cmake/giffilter.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+fcntl.h
+-
+gif_lib.h
+/home/sad/Downloads/giflib-cmake/gif_lib.h
+getarg.h
+/home/sad/Downloads/giflib-cmake/getarg.h
+

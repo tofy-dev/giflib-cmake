@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/gifbg.dir/gifbg.c.o -o gifbg  -Wl,-rpath,/home/sad/Downloads/giflib-cmake: libgiflib.so.7.1.0 -lm 

@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/gifwedge.dir/gifwedge.c.o -o gifwedge  -Wl,-rpath,/home/sad/Downloads/giflib-cmake: libgiflib.so.7.1.0 -lm 

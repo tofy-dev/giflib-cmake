@@ -3,6 +3,7 @@ cmake_minimum_required(VERSION 2.6.0)
 project(giflib C)
 
 SET(BUILD_STATIC_LIBS OFF CACHE BOOL "Whether to also build static libs")
+SET(CMAKE_C_COMPILER "gcc")
 
 execute_process(COMMAND ./getversion
     WORKING_DIRECTORY ${CMAKE_SOURCE_DIR}

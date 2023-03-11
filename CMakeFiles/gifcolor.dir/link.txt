@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/gifcolor.dir/gifcolor.c.o -o gifcolor  -Wl,-rpath,/home/sad/Downloads/giflib-cmake: libgiflib.so.7.1.0 -lm 

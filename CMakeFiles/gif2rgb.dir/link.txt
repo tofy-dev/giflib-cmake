@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/gif2rgb.dir/gif2rgb.c.o -o gif2rgb  -Wl,-rpath,/home/sad/Downloads/giflib-cmake: libgiflib.so.7.1.0 -lm 

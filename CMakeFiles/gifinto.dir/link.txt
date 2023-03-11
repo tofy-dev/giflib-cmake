@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/gifinto.dir/gifinto.c.o -o gifinto  -Wl,-rpath,/home/sad/Downloads/giflib-cmake: libgiflib.so.7.1.0 -lm 

@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/giffilter.dir/giffilter.c.o -o giffilter  -Wl,-rpath,/home/sad/Downloads/giflib-cmake: libgiflib.so.7.1.0 -lm 
